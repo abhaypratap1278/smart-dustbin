@@ -91,7 +91,7 @@ In the code you can change `OPEN_DISTANCE_CM`, `LID_OPEN_ANGLE`, `CLOSE_DELAY_MS
 C++ (Arduino framework for ESP8266), Blynk IoT, ultrasonic ranging, servo control
 
 ## 📸 Demo
-[Dustbin ki photo / video yahan lagao]
+
 
 ![Smart Dustbin](smart-dustbin.jpg)
 
