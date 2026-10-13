@@ -99,6 +99,6 @@ C++ (Arduino framework for ESP8266), Blynk IoT, ultrasonic ranging, servo contro
 - **Challenge:** detecting "full" reliably without false alarms. The IR sensor is checked only while the lid is closed, and the garbage must stay in front of it for a few seconds before a notification is sent.
 - **Learned:** how ultrasonic sensors measure distance, how to control a servo motor, how to protect a 3.3V board from a 5V sensor signal, and how to send real-time alerts to a phone with Blynk.
 
-## 👤 Author
-Abhaypratap Sikarwar
-[LinkedIn](https://www.linkedin.com/in/abhay-sikarwar-a5b9792b1/) | [Portfolio](https://abhaysikarwar.netlify.app)
+ ## 👤 Author
+   Abhaypratap Sikarwar
+   [LinkedIn](https://www.linkedin.com/in/abhaypratap-sikarwar-a5b9792b1/) | [Portfolio](https://abhaysikarwar.netlify.app) | [Portfolio 2](https://abhaysikarwar326.netlify.app)
